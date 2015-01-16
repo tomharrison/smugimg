@@ -12,6 +12,12 @@ This isn't an official SmugMug gem. I'm not affiliated with the company SmugMug.
 
 Sit tight, I'll publish this gem soon.
 
+## Tests
+
+Run the rspec tests with rake:
+
+    rake
+
 ## Authors
 
 - Tom Harrison <tomharrison@gmail.com>, [@tomharrison](https://twitter.com/tomharrison)
