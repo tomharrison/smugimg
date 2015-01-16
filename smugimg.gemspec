@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.files = ['lib/smugimg.rb', 'lib/smugimg/constants.rb', 'lib/smugimg/template.rb']
   s.homepage = 'https://github.com/tomharrison/smugimg'
   s.license = 'MIT'
+
+  s.add_development_dependency 'rspec', '~> 3.1.0'
 end
