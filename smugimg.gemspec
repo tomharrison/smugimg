@@ -10,6 +10,6 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/tomharrison/smugimg'
   s.license = 'MIT'
 
-  s.add_development_dependency 'rspec', '~> 3.1.0'
-  s.add_development_dependency 'rake', '~> 10.4.2'
+  s.add_development_dependency 'rspec', '~> 3.1'
+  s.add_development_dependency 'rake', '~> 10.4'
 end
