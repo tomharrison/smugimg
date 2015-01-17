@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'smugimg'
-  s.version = '0.0.1'
+  s.version = '0.1.0'
   s.date = '2015-01-14'
   s.summary = 'Generate SmugMug photo URLs.'
   s.description = 'SmugImg is able to parse the GUID to a SmugMug photo and generate URLs to that image at any given size.'
